@@ -1,0 +1,122 @@
+=========================
+Common 1
+=========================
+* console vs gui
+
+=========================
+Git 1
+=========================
+
+* stash
+* rebase
+* detached head
+* revision specifiers
+- master@{yesterday}
+- master@{1 month ago}
+- master@{5}
+- carrot parent
+- tilde parent
+- tree pointer
+- blob in commit
+- ranges
+* cherry-picking
+* rebasing
+* git.alias
+* auto-rebase
+* git add --all
+* pushing and pulling
+- push -f
+- config credentials
+* tags
+* remotes
+* config
+* gui
+* git bash
+* resources
+* tools
+- gitextensions
+- tortoisegit
+- VS integration
+
+* resources
+- visual guide to Git
+- kiro's simulator
+=========================
+Hg 1
+=========================
+
+* mercurial is written in python
+* revsets
+* pull -u
+* plugins
+
+=========================
+Branching
+=========================
+
+* merge conflicts
+- diff format
+* mercurial
+- branches vs bookmarks
+- a branch is unique by name
+
+=========================
+Common 2
+=========================
+
+* Clean history
+- rebase
+- rebase -i
+- selective commits
+- no-ff
+- good commit msgs
+- no whitespace edits
+
+* forks and pull requests
+
+* repo architectures
+- star
+- master/lieutenants
+- forks/integration
+- dev/qa/uat/publish
+
+* hooks
+- persistent branch information
+- repo moved to git
+
+=========================
+Git 2
+=========================
+* dangling commits
+* stash, stash+branching
+* gc, fsck, prune
+* bisect
+* pickaxe
+* crlf config
+* reflog
+* replace+filter branch
+* graft
+* format-patch/apply, am
+* archive
+
+* internals
+- shacon's slides, 77+
+
+=========================
+Hg 2
+=========================
+
+
+* hg phases
+* hg mq
+* patch queues
+* hg web
+* hg strip
+* reflog structure
+* tools
+- visualhg
+- tortoisehg
+
+
+
+

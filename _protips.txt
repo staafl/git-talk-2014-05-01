@@ -1,0 +1,5 @@
+* Source control is NOT easy
+* Always try to keep things as simple as possible
+* Keep a spare clean repo handy when doing dangerous things
+* Always "log" before doing operations on series of commits
+* No generated files in source control
